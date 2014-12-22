@@ -36,11 +36,31 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Foure bookes of husbandry, collected by M. Conradus Heresbachius, counseller to the hygh and mighty 
+POST. TRISTIA. LAETA
+1. TO THE RIGHT WORshipfull, his very good freend, Syr Wylliam Fitzwylliams, Knight.
+
+1. ¶ THE EPISTLE TO the Reader.
+
+1. ¶ The names of such Aucthours, and Husbandes, whose aucthorities, and obseruations, are vsed in this Booke.
+
 #####Body#####
-Foure bookes of husbandry, collected by M. Conradus Heresbachius, counseller to the hygh and mighty 
+
+1. The first Booke of husbandry, entreatyng of earable ground, tyllage, and pasture.
+
+1. The seconde Booke, of Gardens, Orchardes, and Wooddes.
+
+1. ¶ The third Booke, of feeding, breeding, and curing of Cattell.
+
+1. ¶The fourth Booke, entreatyng of Poultry, Foule, Fishe, and Bees.
+
 #####Back#####
 
+1. Olde English rules, for purchasing land.
+
+1. ¶ Faultes escaped in the printing.
+
+1. ¶ A TABLE OF ALL suche principall matters and woordes as are conteyned in this Booke, wherein the fyrst side of the leafe is signifyed by A. and the second by B. and vvhereas the Booke is in sundry places noted vvith one number tvvyse, the seconde number is shevved by this marke * before the number.
+A.ABlaqueation of Vines.82. b.Affrica, her fertilitie.19. a.Aglaus iudged happy by Apollo.7. a.AmbitB.Basyll.65. a.Barnacles grovvyng out of trees.165. b.Bees delight in nevve hyues.181. b.Bees lost, C.Cammell of Arabi.126. d.Cammell of Bastria.126. b.Cammell, her foaliug.127. a.Cameleopard.127. a.CD.Date tree.97. a.Damsons.96. a.Dyll.57. b.Drone Bee.176. a. and 182. a.Dogge the starre, his rysingE.Elme.102Elme, his vse.106. aEgges, their sortes.161. b.Eldar.107. a.Elecompany.68. a.Emperours of F.Flax.38. b.Firre tree, his vse.106. a.Flovvre gentle.65. b.Filbert.94. b.Fruitefulnesse of diuers G.Garlicke.60. a.Galles.102. a. and. 110. a.Garners.42. b.Goose pennes, their standing.163. b.Goose H.Helecampany.68. a.Husband, his good nature.17. a.Husbandmen most happy.7. a.Husbandmen come to be I.Implastring.74. a.Inoculation.74. a.Instrumentes of husbandry.11. b.Italy vvhy called the Orchard.K.Kitchin.12. a.Kyng. H.122. a.L.Larshe.106. a.Lauender.65. b.Land vvhat it requires.46. b.Land neighbourhood to be regarded.46. b.M.Maple.107. b.Maple boordes.108. a.Marioram.65. b.Moovves for Corne.13. a.Mallovve.61. a.Manna.180.N.Nauevves.59. b.Netheardes made Emperours.113. a.Neyghbourhood.9. a. 46. b.O.Of choosing of ground.16. b.Of corne ground.16. b.Of Duckes.164. b.Of Bees.173. b.Of Geese.163. a.P.Panicle.32. a.Parsnep.59. a.Patriarches shepheardes.113. a.Plovve, his vvyng.21. a.Plovving, the sQ.Quayles.171. b.Quince tree.89. a.Quinces vvhen to be geathered.89. b.Quinces hovve to keepe.89. b.RRadyshe, his vse.58. b.Rammes, vvhich to be bought.138.Rape.59. a.Rape haruest.40. b.Rape of great S.Svvan.171. b.Saffron.63. b.Saurye.65.Settervvoort and his vse.68. a. 124. a. 130. a.Seruauntes theT.Tymber for buyldyng.108.Tymber for Pumpes, and vvater pipes.108.Trees the Northside mossy.105. b.TV.Veronica, his vertues.191. b.Vine plantes vvhiche, and hovve to get, theyr keeping, their length.8W.VVoormevvood.68.VVood for cuppes.108. b.VVinter grayne the best.27. a.VVheate fifteene dayes in blY.Yevve tree, his vse.109. 2.Z.Zo•29. a.Ziziphes.92. b.
 **Types of content**
 
   * There are 270 **verse** lines!
